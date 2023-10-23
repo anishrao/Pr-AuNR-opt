@@ -1,0 +1,16 @@
+batch: 0
+campaign_id: cpg_e5191b38381c48efad0ccfb0b86d02ed
+id: rqt_4a7f03ad2dac40669cfb88cd9a54dde4
+iteration: 0
+processes:
+  Au seeds: 49.4
+  HCl (uL): 558
+  ascorbic acid (uL): 235
+  silver (uL): 183
+  temperature: 38
+submission_id: fa60f8a81f4443e88e1ab5748246b684
+workstation_id: wst_a049b4061e7045c1a29fb610b72110c2
+file_id: fle_6b864d46539741aca0240fe926ebb066
+file_name: job_submission_fa60f8a81f4443e88e1ab5748246b684.yml
+properties:
+  loss parameter: 12.2
