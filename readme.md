@@ -14,7 +14,9 @@ This repository contains the following subfolders and files in the root folder.
 
 ```
 ### To generate Figure S7, and S8, run the Fig_S7_S8.ipynb notebook, and the plots will be generated in the src folder itself. 
-### The jupyter notebook (Fig_S5_3b_3c.ipynb) will generate Figure 3c too. Just selected Exp 1, 7, 11 to prepare Figure 3c.
+
+### The jupyter notebook (Fig_S5_3b_3c.ipynb) will generate Figure 3c too. Exp 1, 7, 11 were selected to prepare Figure 3c.
+
 .
 |--CITATION
 |--README.md
