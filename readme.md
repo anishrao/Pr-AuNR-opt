@@ -1,6 +1,7 @@
 # *Revisiting El-Sayed Synthesis: Bayesian Optimization for Revealing New Insights during the Growth of Gold Nanorods* Name
 
 This repository contains data for Revisiting El-Sayed Synthesis: Bayesian Optimization for Revealing New Insights During AuNR Growth
+Link to the paper: https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00271
 
 ### Prerequisites
 
@@ -13,9 +14,9 @@ The requirements file is placed in aunr_opt_env.yaml
 This repository contains the following subfolders and files in the root folder.
 
 
-### To generate Figure S7, and S8, run the Fig_S7_S8.ipynb notebook, and the plots will be generated in the src folder itself. 
-
-### The jupyter notebook (Fig_S5_3b_3c.ipynb) will generate Figure 3c too. Exp 1, 7, 11 were selected to prepare Figure 3c.
+### Note:
+- To generate Figure S7, and S8, run the Fig_S7_S8.ipynb notebook, and the plots will be generated in the src folder itself. 
+- The jupyter notebook (Fig_S5_3b_3c.ipynb) will generate Figure 3c too. Exp 1, 7, 11 were selected to prepare Figure 3c.
 
 .
 |--CITATION
@@ -33,12 +34,3 @@ This repository contains the following subfolders and files in the root folder.
 |--src							# Source folder for all scripts/jupyter
 
 ```
-
-
-## Authors contribution (https://casrai.org/credit/)
-Marek Grzelczak - *Current contributor, developing new features
-
-## Acknowledgments
-
-
-* Marek Grzelczak - PI for the project and inventor of the abstraction
